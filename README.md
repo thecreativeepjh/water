@@ -7,8 +7,8 @@
 </head>
 <body>
     <h1><u>Water polution</u></h1>
-    <h3>mercury concentraion from the food chain:</h3>
-    <p>info................................</p>
+    <h3><u>Mercury concentraion from the food chain</u>u>:</h3>
+    <p>Info................................</p>
     <p>what,who,where.</p>
     <p> </p>
     <p>Facts:</p>
@@ -17,6 +17,6 @@
         <li>you</li>
         <li>know</li>
     </ul>
-    <p>by Ezra</p>
+    <p>By Ezra</p>
 </body>
 </html>
