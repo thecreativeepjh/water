@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1><u>Water polution</u></h1>
-    <h3><u>Mercury concentraion from the food chain</u>u>:</h3>
+    <h3><u>Mercury concentraion from the food chain</u>:</h3>
     <p>Info................................</p>
     <p>what,who,where.</p>
     <p> </p>
