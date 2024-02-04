@@ -8,9 +8,8 @@
 <body>
     <h1><u>Water polution</u></h1>
     <h3><u>Mercury concentraion from the food chain</u>:</h3>
-    <p>Info................................</p>
-    <p>what,who,where.</p>
     <p>Fish die-->Murcury collects at bottom of river in cediment-->Fish eat it-->Fish have higher levals of mercury-->Restart</p>
+    <p>More info will go here in the future...</p>
     <p>Facts:</p>
     <ul>
         <li>if</li>
