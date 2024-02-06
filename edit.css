@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-image: linear-gradient(lightblue, navy);
 }
 #text{
   font-size: 16px;
