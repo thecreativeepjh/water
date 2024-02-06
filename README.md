@@ -38,7 +38,5 @@
         <li>(L. Aunt, personal communication, Febuary 5, 2024)</li>
         <li>(R. Grandmother, personal communication, Febuary 5, 2024)</li>
     </ul>
-    <p>...</p>
-</body>
 </body>
 </html>
