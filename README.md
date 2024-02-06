@@ -9,7 +9,7 @@
     <h1><u>Water pollution:</u></h1>
     <h2><u>Mercury acumulation from the food chain</u>:</h2>
     <p>Paper mill/gold mine polute water with (water soluable)mercury-->Fish absorbe it-->Some becomes oil soluable due to natural procces-->Mercury stayes stored in fat-->Bigger fish eat the fish-->The mercury stored in fat from smaller fish and some from bigger fish combine-->This continues on until eaten by humans</p>
-    <h3>Who,Where,When,Why,How:</h3>
+    <h3>Who, Where, When, Why, How:</h3>
     <ul>
         <li>Who: the componies runing gold mines and paper mills</li>
         <li>Where: ...</li>
@@ -33,6 +33,9 @@
     </ol>
     <p>More info will go here in the future...</p>
     <p>By Ezra</p>
-    <p>sources-Aunt L. and Grandmother</p>
+    <h2>Sources:
+    <p>(L. Aunt, personal communication, Febuary 5, 2024)</p>
+    <p>(R. Grandmother, personal communication, Febuary 5, 2024)</p>
+</body>
 </body>
 </html>
