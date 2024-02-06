@@ -46,6 +46,7 @@
         <li id='text'>(L. Aunt, personal communication, Febuary 5, 2024)</li>
         <li id='text'>(R. Grandmother, personal communication, Febuary 5, 2024)</li>
         <li id='text'>Environmental Protection Agency. (n.d.). EPA. https://www.epa.gov/mercury/health-effects-exposures-mercury</li>
+        <li id='text'>NYSERDA. (n.d.). https://www.nyserda.ny.gov/All-Programs/Environmental-Research/Atmospheric-Deposition/Mercury-Human-Health-and-the-Environment#:~:text=Mercury%20has%20severe%20impacts%20on,bioconcentrate%2C%20contribute%20to%20its%20toxicity. </li>
     </ul>
     <p>...</p>
 </body>
