@@ -33,7 +33,7 @@
         <li>.</li>
         <li>.</li>
     </ul>
-    <img src="https://voiceoftheocean.org/wp-content/uploads/2023/04/01-Bioacumulation.jpg" alt="W3Schools.com">
+    <img src="https://voiceoftheocean.org/wp-content/uploads/2023/04/01-Bioacumulation.jpg" alt="W3Schools.com"style=" width:200px;height:200px;">>
     <h3>How to reduce/eliminate effects:?????????</h3>
     <ol>
         <li>Congulation filtration</li>
