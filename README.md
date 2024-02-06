@@ -34,8 +34,10 @@
     <p>More info will go here in the future...</p>
     <p>By Ezra</p>
     <h2>Sources:
-    <p>(L. Aunt, personal communication, Febuary 5, 2024)</p>
-    <p>(R. Grandmother, personal communication, Febuary 5, 2024)</p>
+    <ul>
+        <li>(L. Aunt, personal communication, Febuary 5, 2024)</li>
+        <li>(R. Grandmother, personal communication, Febuary 5, 2024)</li>
+    </ul>
 </body>
 </body>
 </html>
