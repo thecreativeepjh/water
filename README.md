@@ -19,7 +19,7 @@
     </ul>
     <h3>Effects:</h3>
     <p>Bioaccumulation refers to the build-up of a pollutant within the body of an organism over time. Bioconcentration (or biomagnification) refers to how mercury concentrations increase going up the food chain, becoming concentrated in higher-level predators such as fish, birds, minks, and otters. Mercury levels increase by 100-1,000 times or more through bioconcentration. For this reason, even relatively low concentrations of mercury in water can contaminate an entire food chain and make fish unsafe for human consumption.</p>
-    <h4>Effects for Humans:</h3>
+    <h4>Effects for Humans:</h4>
     <p>Having mercury in your system is bad, it is poisonous. Some effects of that are:</p>
     <ul>
         <li>Loss of peripheral vision</li>
@@ -28,7 +28,7 @@
         <li>Impairment of speech, hearing, walking</li>
         <li>Muscle weakness</li>
     </ul>
-    <h4>Effects on the Enviroment:</h3>
+    <h4>Effects on the Enviroment:</h4>
     <ul>
         <li>.</li>
         <li>.</li>
@@ -41,7 +41,7 @@
     </ol>
     <p>More info will go here in the future...</p>
     <p>By Ezra</p>
-    <h2>Sources:
+    <h2>Sources:</h2>
     <ul>
         <li id='text'>(L. Aunt, personal communication, Febuary 5, 2024)</li>
         <li id='text'>(R. Grandmother, personal communication, Febuary 5, 2024)</li>
