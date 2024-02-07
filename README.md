@@ -13,7 +13,7 @@
     <ul>
         <li>Who: the componies runing gold mines and paper mills</li>
         <li>Where: ...</li>
-        <li>When: about befor the 1960s</li>
+        <li>When: about before the 1960s</li>
         <li>Why: because they did not know the effects</li>
         <li>How: people would mine for gold then to purify it by mixing it with mercury, then they would burn off the mercury leaving it in the air to come down with rain polluting the river.</li>
     </ul>
@@ -34,7 +34,8 @@
         <li>.</li>
         <li>.</li>
     </ul>
-    <h3>How to reduce/eliminate effects:?????????</h3>
+    <h3>How to reduce/eliminate effects:</h3>
+    <p>You can't get rid of methylmercury once it has gotten into fish. There is no know cooking or teatment method for taking methylmercury out of fish. Below are a few ways to remove methylmercury out of the water before it comes out of the tap.</p>
     <ol>
         <li>Congulation filtration</li>
         <li>Activated carbon</li>
