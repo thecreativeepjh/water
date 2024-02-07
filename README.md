@@ -8,7 +8,7 @@
 <body>
     <h1><u>Water pollution:</u></h1>
     <h2><u>Mercury acumulation from the food chain</u>:</h2>
-    <p>Paper mill/gold mine polute water with (water soluable)mercury--> microbes absorbe it and make it methylmercury-->Fish eat it-->Some becomes oil soluable due to natural procces-->Mercury stayes stored in fat-->Bigger fish eat the fish-->The mercury stored in fat from smaller fish and some from bigger fish combine-->This continues on until eaten by humans</p>
+    <p>Paper mill/gold mine polute water with mercury--> microbes absorbe it and make it methylmercury-->Fish eat it-->Mercury stayes stored in fat-->Bigger fish eat the fish-->The mercury stored in fat from smaller fish and some from bigger fish combine-->This continues on until eaten by humans or other animal</p>
     <h3>Who, Where, When, Why, How:</h3>
     <ul>
         <li>Who: the componies runing gold mines and paper mills</li>
