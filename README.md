@@ -9,7 +9,7 @@
 <body>
     <h1 align="center" >Water pollution</h1>
     <h2 align="center" >Mercury acumulation from the food chain</h2>
-    <p> Volcanic activity, paper mills/gold mines along with coal power plants and industrial waste disposal all polute water with mercury-->It comes down with the rain-->microbes absorbe it and make it methylmercury-->Fish eat it-->Mercury stayes stored in fat-->Bigger fish eat the fish-->The mercury stored in fat from smaller fish and some from bigger fish combine-->This continues on until eaten by humans or other animal.</p>
+    <p> Volcanic activity, paper mills/gold mines along with coal power plants and industrial waste disposal all polute air with mercury-->It comes down with the rain-->microbes absorbe it and make it methylmercury-->Fish eat it-->Mercury stayes stored in fat-->Bigger fish eat the fish-->The mercury stored in fat from smaller fish and some from bigger fish combine-->This continues on until eaten by humans or other animal.</p>
     <h3>Who, Where, When, Why:</h3>
     <ul>
         <li>Who: The componies and people runing coal power plants, and gold mines, ect. But you can't name a sigle person or company to blame it on for many facts such as volcanos</li>
@@ -46,7 +46,8 @@
     <h3>Not so Fun Facts:</h3>
     <ul>
         <li>This is how gold mining contributed to mercury pollution:People would mine for gold then to purify it by mixing it with mercury, then they would burn off the mercury leaving it in the air to come down with rain polluting the river.</li>
-        <li>Mercury levels increase by 100-1,000 times or more through bioconcentration. For this reason, even relatively low concentrations of mercury in water can contaminate an entire food chain and make fish unsafe for human consumption.</li>
+        <li>Mercury levels increase by 100-1,000 times or more through bioconcentration. For this reason, even relatively low concentrations of mercury in water can contaminate an entire food chain and make fish unsafe for human consumption</li>
+        <li>Humans are the biggest producers of mercury pollution into the air through coal power plants.</li>
     </ul>
     <p>By Ezra</p>
     <h2>Sources:</h2>
