@@ -12,7 +12,7 @@
     <p> Volcanic activity, paper mills/gold mines along with coal power plants and industrial waste disposal all polute water with mercury-->It comes down with the rain-->microbes absorbe it and make it methylmercury-->Fish eat it-->Mercury stayes stored in fat-->Bigger fish eat the fish-->The mercury stored in fat from smaller fish and some from bigger fish combine-->This continues on until eaten by humans or other animal.</p>
     <h3>Who, Where, When, Why:</h3>
     <ul>
-        <li>Who: The componies runing gold mines and paper mills</li>
+        <li>Who: The componies and people runing coal power plants, and gold mines, ect. But you can't name a sigle person or company to blame it on for many facts such as volcanos</li>
         <li>Where: Any where within the general area for the smoke to be in tha atmosfear and come down with the rain and get into the water supply</li>
         <li>When: Some laws have change mostly for gold mining(see Not so Fun Facts) but coal power plants still emit mercuy. Also volcanic activity still emits it and they can't stop.</li>
         <li>Why: Some of the pollution could have been avoided like the mining and industrial waste disposal. Along with those you also have pollution from coal plant which needed to happen for the industrial revolution. There is also volcanic activity which can't be avoided.</li>
