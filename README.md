@@ -7,7 +7,7 @@
     <link rel="script" href="stuff.js">
 </head>
 <body>
-    <div id="header"><u>Water pollution:</u></div>
+    <h1><u>Water pollution:</u></h1>
     <h2><u>Mercury acumulation from the food chain</u>:</h2>
     <p> volcanic activity, Paper mills/gold mines along with coal power plants and industrial waste disposal all polute water with mercury-->It comes down with the rain-->microbes absorbe it and make it methylmercury-->Fish eat it-->Mercury stayes stored in fat-->Bigger fish eat the fish-->The mercury stored in fat from smaller fish and some from bigger fish combine-->This continues on until eaten by humans or other animal.</p>
     <h3>Who, Where, When, Why:</h3>
