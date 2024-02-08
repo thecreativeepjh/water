@@ -57,7 +57,7 @@
         <li id='text'>NYSERDA. (n.d.). https://www.nyserda.ny.gov/All-Programs/Environmental-Research/Atmospheric-Deposition/Mercury-Human-Health-and-the-Environment#:~:text=Mercury%20has%20severe%20impacts%20on,bioconcentrate%2C%20contribute%20to%20its%20toxicity. </li>
         <li id='text'>Ocean, V. O. T. (2023, November 9). Voice of the Ocean - we turn people's attention to the ocean. Voice of the Ocean. https://voiceoftheocean.org/</li>
         <li id='text'>Mercury contamination of aquatic environments completed. Mercury Contamination of Aquatic Environments | U.S. Geological Survey. (n.d.). https://www.usgs.gov/special-topics/water-science-school/science/mercury-contamination-aquatic-environments</li>
-        <li id='text'>Azevedo, R., & Rodriguez, E. (2012, May 20). Phytotoxicity of Mercury in plants: A Review. Journal of Botany. https://www.hindawi.com/journals/jb/2012/848614/#:~:text=Exposure%20to%20Hg%20can%20also,accumulation%20of%20iron%20%5B22%5D. </li>
+        <li id='text'>Azevedo, R., & Rodriguez, E. (2012, May 20). Phytotoxicity of Mercury in plants: A Review. Journal of Botany. https://www.hindawi.com/journals/jb/2012/848614/#:~:text=Exposure%20to%20Hg%20can%20also,accumulation%20of%20iron%20%5B22%5D</li>
     </ul>
 </body>
 </html>
