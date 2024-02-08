@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="edit.css">
+    <link rel="script" href="stuff.js">
 </head>
 <body>
     <div id="header"><u>Water pollution:</u></div>
