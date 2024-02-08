@@ -7,9 +7,9 @@
     <link rel="script" href="stuff.js">
 </head>
 <body>
-    <h1><u>Water pollution:</u></h1>
-    <h2><u>Mercury acumulation from the food chain</u>:</h2>
-    <p> volcanic activity, Paper mills/gold mines along with coal power plants and industrial waste disposal all polute water with mercury-->It comes down with the rain-->microbes absorbe it and make it methylmercury-->Fish eat it-->Mercury stayes stored in fat-->Bigger fish eat the fish-->The mercury stored in fat from smaller fish and some from bigger fish combine-->This continues on until eaten by humans or other animal.</p>
+    <h1 align="center" >Water pollution</h1>
+    <h2 align="center" >Mercury acumulation from the food chain</h2>
+    <p> Volcanic activity, paper mills/gold mines along with coal power plants and industrial waste disposal all polute water with mercury-->It comes down with the rain-->microbes absorbe it and make it methylmercury-->Fish eat it-->Mercury stayes stored in fat-->Bigger fish eat the fish-->The mercury stored in fat from smaller fish and some from bigger fish combine-->This continues on until eaten by humans or other animal.</p>
     <h3>Who, Where, When, Why:</h3>
     <ul>
         <li>Who: The componies runing gold mines and paper mills</li>
@@ -18,10 +18,10 @@
         <li>Why: Some of the pollution could have been avoided like the mining and industrial waste disposal. Along with those you also have pollution from coal plant which needed to happen for the industrial revolution. There is also volcanic activity which can't be avoided.</li>
     </ul>
     <h3>Effects:</h3>
-    <p>Bioaccumulation refers to the build-up of a pollutant within the body of an organism over time. Bioconcentration (or biomagnification) refers to how mercury concentrations increase going up the food chain, becoming concentrated in higher-level predators such as fish, birds, minks, and otters.</p>
+    <p>"Mercury has severe impacts on aquatic ecosystems, especially those with large wetland areas. Two properties of methylmercury, its ability to bioaccumulate and to bioconcentrate, contribute to its toxicity. Bioaccumulation refers to the build-up of a pollutant within the body of an organism over time. Bioconcentration (or biomagnification) refers to how mercury concentrations increase going up the food chain, becoming concentrated in higher-level predators such as fish, birds, minks, and otters."-nyserd(New York State Energy Research and Development Authority) This is a quote that goes to show how important it is to learn and understand this topic, because even the USA government(or at least New york) cares about it.</p>
     <h4>Effects for Humans:</h4>
     <p>Having methylmercury in your system is bad, it is poisonous. Some effects of that are:</p>
-    <img align="right" src="01-Bioacumulation.jpeg" alt="Hello" style=" width:400px;height:400px;">
+    <img align="right" src="01-Bioacumulation.jpeg" alt="Bioacumulation" style=" width:400px;height:400px;">
     <ul>
         <li>Loss of peripheral vision</li>
         <li>"Pins and needles" feelings, usually in the hands, feet, and around the mouth</li>
@@ -32,8 +32,9 @@
     </ul>
     <h4>Effects on the Enviroment:</h4>
     <ul>
-        <li>neurological poison in fish and wildlife</li>
-        <li>.</li>
+        <li>Neurological poison in fish, birds, minks, and otters, and other wildlife</li>
+        <li>Reduce photosynthesis in plants</li>
+        <li>Reduce water uptake and chlorophyll synthesis in plants</li>
     </ul>
     <h3>How to reduce/eliminate effects:</h3>
     <p>You can't get rid of methylmercury once it has gotten into fish. There is no know cooking or teatment method for taking methylmercury out of fish. Below are a few ways to remove methylmercury out of the water before it comes out of the tap.</p>
@@ -56,6 +57,7 @@
         <li id='text'>NYSERDA. (n.d.). https://www.nyserda.ny.gov/All-Programs/Environmental-Research/Atmospheric-Deposition/Mercury-Human-Health-and-the-Environment#:~:text=Mercury%20has%20severe%20impacts%20on,bioconcentrate%2C%20contribute%20to%20its%20toxicity. </li>
         <li id='text'>Ocean, V. O. T. (2023, November 9). Voice of the Ocean - we turn people's attention to the ocean. Voice of the Ocean. https://voiceoftheocean.org/</li>
         <li id='text'>Mercury contamination of aquatic environments completed. Mercury Contamination of Aquatic Environments | U.S. Geological Survey. (n.d.). https://www.usgs.gov/special-topics/water-science-school/science/mercury-contamination-aquatic-environments</li>
+        <li>Azevedo, R., & Rodriguez, E. (2012, May 20). Phytotoxicity of Mercury in plants: A Review. Journal of Botany. https://www.hindawi.com/journals/jb/2012/848614/#:~:text=Exposure%20to%20Hg%20can%20also,accumulation%20of%20iron%20%5B22%5D. </li>
     </ul>
 </body>
 </html>
