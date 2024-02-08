@@ -17,7 +17,7 @@
         <li>Why: Some of the pollution could have been avoided like the mining and industrial waste disposal. Along with those you also have pollution from coal plant which needed to happen for the industrial revolution. There is also volcanic activity which can't be avoided.</li>
     </ul>
     <h3>Effects:</h3>
-    <p>Bioaccumulation refers to the build-up of a pollutant within the body of an organism over time. Bioconcentration (or biomagnification) refers to how mercury concentrations increase going up the food chain, becoming concentrated in higher-level predators such as fish, birds, minks, and otters. Mercury levels increase by 100-1,000 times or more through bioconcentration. For this reason, even relatively low concentrations of mercury in water can contaminate an entire food chain and make fish unsafe for human consumption.</p>
+    <p>Bioaccumulation refers to the build-up of a pollutant within the body of an organism over time. Bioconcentration (or biomagnification) refers to how mercury concentrations increase going up the food chain, becoming concentrated in higher-level predators such as fish, birds, minks, and otters.</p>
     <h4>Effects for Humans:</h4>
     <p>Having methylmercury in your system is bad, it is poisonous. Some effects of that are:</p>
     <img align="right" src="01-Bioacumulation.jpeg" alt="Hello" style=" width:400px;height:400px;">
@@ -44,6 +44,7 @@
     <h3>Not so Fun Facts:</h3>
     <ul>
         <li>This is how gold mining contributed to mercury pollution:People would mine for gold then to purify it by mixing it with mercury, then they would burn off the mercury leaving it in the air to come down with rain polluting the river.</li>
+        <li>Mercury levels increase by 100-1,000 times or more through bioconcentration. For this reason, even relatively low concentrations of mercury in water can contaminate an entire food chain and make fish unsafe for human consumption.</li>
     </ul>
     <p>By Ezra</p>
     <h2>Sources:</h2>
